@@ -1,4 +1,4 @@
-=== WooCommerce Delivery Slots by Iconic [WooCommerce Table Rate Shipping Pro] ===
+=== WooCommerce Delivery Slots by Iconic [WooCommerce Local Pickup Plus] ===
 Contributors: iconicwp
 Requires at least: 4.5
 Tested up to: 5.6
